@@ -12,13 +12,14 @@ My Nordic Travel simplifies travel management, offering easy flight, train, and 
 - Goal: Delivering the best of the Nordic region through our packages.
 - Choose us for an unforgettable Nordic adventure.
 
+
+# Platforms:
+- Web
+
 # Technologies Used:
 -  Angular
 -  Laravel 8
 -  MySql
-
-# Platforms:
-- Web
 
 
 # Website URL:
